@@ -1,3 +1,3 @@
-# eventtarget
+# event.target
 
-[Preview](https://oufcena.github.io/eventtarget/)
+[Preview](https://oufcena.github.io/event.target/)
